@@ -1,0 +1,12 @@
+.color-heading{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+.color-box{
+    padding: 30px;
+}
+.color-name{
+    color: white;
+    font-size: 20px;
+}

@@ -1,0 +1,25 @@
+.todo-container{
+    padding: 16px;
+    font-family: "Roboto";
+    background-color: #f6f5f1;
+}
+h1{
+    font-size: 30px;
+}
+#day{
+    color: #03449c;
+    font-weight: bold;
+}
+ul{
+    margin: 16px;
+}
+li{
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+.done{
+    text-decoration: line-through;
+    color: #9aa5b1;
+    font-style: italic;
+}

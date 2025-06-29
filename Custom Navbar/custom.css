@@ -1,0 +1,10 @@
+.custom-logo{
+    border: 2px solid white;
+    text-align: center;
+    height: 60px;
+    width: 60px;
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+}

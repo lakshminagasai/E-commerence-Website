@@ -1,0 +1,35 @@
+.intro-container{
+    padding: 20px;
+    text-align: left;
+    background-color: #f5f9fd;
+    font-family: "Roboto";
+}
+.name{
+    color: #03449e;
+    font-weight: bold;
+    font-size: 32px;
+}
+.intro-para{
+    color: #0967d2;
+    font-weight: bold;
+    font-family: "Bree serif";
+    font-size: 28px;
+}
+.experience{
+    padding: 16px;
+    background-color: #d0efff;
+    margin-bottom: 12px;
+}
+.experience-in-work{
+    color: #47a3f3;
+    font-size: 20px;
+}
+.email{
+    padding: 16px;
+    background-color: #03254c;
+}
+.contact{
+    color: #9aa5b1;
+    font-style: italic;
+    font-size: 16px;
+}

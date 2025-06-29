@@ -1,0 +1,44 @@
+.heading{
+    font-size: 24px;
+    font-weight: bold;
+}
+.heading-Block{
+    font-size: 24px;
+    background-color: lightblue;
+     padding: 20px;
+}
+.para-Block{
+    font-size: 24px;
+    background-color: lightblue;
+     padding: 20px;
+}
+.link-text{
+    background-color: yellow;
+}
+.my-container{
+    border: 3px solid blue;
+    text-align: center;
+}
+.box{
+    background-color: lightblue;
+    font-size: 30px;
+    padding: 20px;
+    margin: 5px;
+}
+.linear-gradient-background{
+    height: 100vh;
+    background-image: linear-gradient(to right,#2196f3,#f44336);
+}
+.radial-gradient-background{
+    height: 100vh;
+    background-image: radial-gradient(#f44336,#2196f3);
+}
+.linear-gradient-background1{
+    height: 100vh;
+    background-image: linear-gradient(to top,#2196f3,#f44336,green,pink,aqua);
+}
+.radial-gradient-background1{
+    height: 100vh;
+    background-image: radial-gradient(#f44336,#2196f3,purple,orange);
+}
+
